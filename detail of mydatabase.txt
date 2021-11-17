@@ -1,0 +1,10 @@
+Database informatin: 
+database name: wordpress1st
+user name : shanto
+user pass: nq0J8Aau0_tG7g/g
+localhost
+table prefix: mh_
+
+wordpress dashboard login: 
+name: shanto
+pass: #Shanto@72611
